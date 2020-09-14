@@ -1,7 +1,0 @@
-Boostrap
-1. Dosen (udah)
-2. Fakultas (udah)
-3. Mahasiswa (udah)
-4. Mata Kuliah (udah)
-5. Nilai Mahasiswa
-6. Prodi

@@ -1,5 +1,5 @@
 <?php
-    $conn = mysqli_connect("localhost", "root", "", "akademik");
+    $conn = mysqli_connect("localhost", "mrakhafm_akademik", "12345", "mrakhafm_akademik");
 
     function query($query){
         global $conn;
